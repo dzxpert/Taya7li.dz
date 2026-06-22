@@ -9,6 +9,14 @@
       "نيكماتكم",
       "النيك",
       "نيكبوك",
+      "نيكك",
+      "نيكه",
+      "نيكي",
+      "نيكها",
+      "نيكهم",
+      "ينيكوك",
+      "ينيكوكا",
+      "ينيكوكاه",
       "nik",
       "ynik",
       "nyyik",
@@ -20,12 +28,57 @@
       "nikmouk",
       "nike",
       "yamnikkkkk",
-      "tanik"
+      "tanik",
+      "nikek",
+      "nikec",
+      "nikak",
+      "nikoc",
+      "nikc",
+      "nikekk",
+      "nikeh",
+      "nikah",
+      "niko",
+      "nikha",
+      "nikaha",
+      "nikhom",
+      "nikoum",
+      "nikouh",
+      "nikouni",
+      "niknek",
+      "nykek",
+      "ynikouk"
     ],
-    "arabizi": "nik / ynik / nikmatkoum / nikmouk",
+    "arabizi": "nik / ynik / nikek / nikak / nikmouk",
     "severity": "High",
     "category": "Vulgar/NSFW",
-    "english_meaning": "Fuck / Fucking / Fuck your mother / Fuck your mothers"
+    "english_meaning": "Fuck / Fucking / Fuck you / Fuck your mother / Fuck your mothers"
+  },
+  {
+    "root": "أخت",
+    "variations": [
+      "اختك",
+      "أختك",
+      "ختك",
+      "لختك",
+      "khtk",
+      "khtek",
+      "khtak",
+      "khtik",
+      "okhtk",
+      "okhtek",
+      "okhtak",
+      "okhtik",
+      "5tk",
+      "5tek",
+      "5tak",
+      "5tik",
+      "khtouk",
+      "okhtouk"
+    ],
+    "arabizi": "khtk / khtek / okhtek / 5tk",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Your sister (used in severe direct insults)"
   },
   {
     "root": "قحبة",
@@ -34,6 +87,7 @@
       "قحاب",
       "قحوب",
       "القحبة",
+      "قحبتك",
       "kahba",
       "qahba",
       "kahbe",
@@ -41,12 +95,20 @@
       "k7ab",
       "kchab",
       "qhab",
-      "qouhab"
+      "qouhab",
+      "kahbtek",
+      "qahbtek",
+      "97ba",
+      "97batek",
+      "97ab",
+      "97oub",
+      "97be",
+      "97btek"
     ],
-    "arabizi": "kahba / qahba / k7ab",
+    "arabizi": "kahba / qahba / k7ab / 97ba",
     "severity": "High",
     "category": "Vulgar/NSFW",
-    "english_meaning": "Whore / Prostitute / Bitch"
+    "english_meaning": "Whore / Prostitute / Bitch / Your whore"
   },
   {
     "root": "طبون",
@@ -54,17 +116,21 @@
       "طبون",
       "طبونك",
       "الطبون",
+      "طبونها",
+      "طبونهم",
       "taboun",
       "taboune",
       "tabounek",
       "tabon",
       "tabone",
-      "tabonek"
+      "tabonek",
+      "tabouneek",
+      "tabonak"
     ],
-    "arabizi": "taboun / taboune / tabon",
+    "arabizi": "taboun / taboune / tabounek",
     "severity": "High",
     "category": "Vulgar/NSFW",
-    "english_meaning": "Female genitalia (vagina / pussy)"
+    "english_meaning": "Female genitalia (vagina / pussy / your pussy)"
   },
   {
     "root": "زب",
@@ -73,17 +139,23 @@
       "زبي",
       "زبك",
       "الزب",
+      "زبكك",
       "zeb",
       "zebbi",
       "zebi",
       "zebek",
       "zebb",
-      "zob"
+      "zob",
+      "zebbek",
+      "zbek",
+      "zbbek",
+      "zbi",
+      "zby"
     ],
-    "arabizi": "zeb / zebbi / zob",
+    "arabizi": "zeb / zebbi / zebek / zbi",
     "severity": "High",
     "category": "Vulgar/NSFW",
-    "english_meaning": "Male genitalia (dick / cock)"
+    "english_meaning": "Male genitalia (dick / cock / your dick)"
   },
   {
     "root": "حتشون",
@@ -98,12 +170,15 @@
       "hatchtoun",
       "7atchoun",
       "7atshoun",
-      "hachoun"
+      "hachoun",
+      "hatchounek",
+      "7atchounek",
+      "hatchonak"
     ],
-    "arabizi": "hatchoun / 7atchoun / hatchtoun",
+    "arabizi": "hatchoun / 7atchoun / hatchounek",
     "severity": "High",
     "category": "Vulgar/NSFW",
-    "english_meaning": "Female genitalia (cunt / pussy)"
+    "english_meaning": "Female genitalia (cunt / pussy / your cunt)"
   },
   {
     "root": "سوة",
@@ -111,15 +186,39 @@
       "سوة",
       "سوتك",
       "السوة",
+      "سوتها",
       "sowa",
       "soua",
       "sowak",
-      "souak"
+      "souak",
+      "sowatek",
+      "souatek",
+      "sowtek",
+      "sowtk",
+      "swtk"
     ],
-    "arabizi": "sowa / soua",
+    "arabizi": "sowa / soua / sowatek / sowtek",
     "severity": "High",
     "category": "Vulgar/NSFW",
-    "english_meaning": "Female genitalia / Buttocks / Vulva"
+    "english_meaning": "Female genitalia / Buttocks / Vulva / Your vulva"
+  },
+  {
+    "root": "طحان",
+    "variations": [
+      "طحان",
+      "طحانين",
+      "طحانة",
+      "طحين",
+      "tahan",
+      "tahana",
+      "tahanine",
+      "t7an",
+      "t7ana"
+    ],
+    "arabizi": "tahan / tahana / t7an",
+    "severity": "Medium",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Cuckold / Spineless / Coward / Scumbag - Chat false positive risk due to flour (طحين) meaning"
   },
   {
     "root": "قواد",
@@ -143,30 +242,20 @@
       "qoud",
       "koud",
       "tkouad",
-      "tagouad"
+      "tagouad",
+      "9wd",
+      "9owad",
+      "9wada",
+      "9ouad",
+      "9ouada",
+      "t9ouad",
+      "t9wada",
+      "9oud"
     ],
-    "arabizi": "qowad / kowad / tgouad / qoud",
-    "severity": "High",
+    "arabizi": "qowad / kowad / 9wd / 9oud / tgouad",
+    "severity": "Medium",
     "category": "Vulgar/NSFW",
-    "english_meaning": "Pimp / Cuckold / Bootlicker / Go away (vulgar)"
-  },
-  {
-    "root": "طحان",
-    "variations": [
-      "طحان",
-      "طحانين",
-      "طحانة",
-      "طحين",
-      "tahan",
-      "tahana",
-      "tahanine",
-      "t7an",
-      "t7ana"
-    ],
-    "arabizi": "tahan / tahana / t7an",
-    "severity": "High",
-    "category": "Vulgar/NSFW",
-    "english_meaning": "Cuckold / Spineless / Coward / Scumbag"
+    "english_meaning": "Pimp / Cuckold / Bootlicker / Go away (vulgar) - Chat false positive risk due to driving/leading meaning"
   },
   {
     "root": "شكوبي",
@@ -177,9 +266,9 @@
       "shkoupi"
     ],
     "arabizi": "chkoupi / chkopi",
-    "severity": "High",
+    "severity": "Medium",
     "category": "Vulgar/NSFW",
-    "english_meaning": "Nothing / Trash / Useless (literally references male organ)"
+    "english_meaning": "Nothing / Trash / Useless (references male organ) - Chat false positive risk due to common mild slang use"
   },
   {
     "root": "ينعل",
@@ -201,9 +290,9 @@
       "nalat"
     ],
     "arabizi": "ynael / naal / naala",
-    "severity": "High",
+    "severity": "Medium",
     "category": "Curse/Ill-wishing",
-    "english_meaning": "May God curse / Curse of"
+    "english_meaning": "May God curse / Curse of - Chat false positive risk due to shoe (نعل) meaning"
   },
   {
     "root": "لعن",
