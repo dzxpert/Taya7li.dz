@@ -1,0 +1,745 @@
+[
+  {
+    "root": "نيك",
+    "variations": [
+      "نيك",
+      "ينيك",
+      "ينيكو",
+      "ينيكوهم",
+      "نيكماتكم",
+      "النيك",
+      "نيكبوك",
+      "nik",
+      "ynik",
+      "nyyik",
+      "yniko",
+      "ynikou",
+      "nikmatkom",
+      "nikmatkoum",
+      "nikmok",
+      "nikmouk",
+      "nike",
+      "yamnikkkkk",
+      "tanik"
+    ],
+    "arabizi": "nik / ynik / nikmatkoum / nikmouk",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Fuck / Fucking / Fuck your mother / Fuck your mothers"
+  },
+  {
+    "root": "قحبة",
+    "variations": [
+      "قحبة",
+      "قحاب",
+      "قحوب",
+      "القحبة",
+      "kahba",
+      "qahba",
+      "kahbe",
+      "qahbe",
+      "k7ab",
+      "kchab",
+      "qhab",
+      "qouhab"
+    ],
+    "arabizi": "kahba / qahba / k7ab",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Whore / Prostitute / Bitch"
+  },
+  {
+    "root": "طبون",
+    "variations": [
+      "طبون",
+      "طبونك",
+      "الطبون",
+      "taboun",
+      "taboune",
+      "tabounek",
+      "tabon",
+      "tabone",
+      "tabonek"
+    ],
+    "arabizi": "taboun / taboune / tabon",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Female genitalia (vagina / pussy)"
+  },
+  {
+    "root": "زب",
+    "variations": [
+      "زب",
+      "زبي",
+      "زبك",
+      "الزب",
+      "zeb",
+      "zebbi",
+      "zebi",
+      "zebek",
+      "zebb",
+      "zob"
+    ],
+    "arabizi": "zeb / zebbi / zob",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Male genitalia (dick / cock)"
+  },
+  {
+    "root": "حتشون",
+    "variations": [
+      "حتشون",
+      "حتشونك",
+      "الحتشون",
+      "حتشونة",
+      "hatchoun",
+      "hatchone",
+      "hatchon",
+      "hatchtoun",
+      "7atchoun",
+      "7atshoun",
+      "hachoun"
+    ],
+    "arabizi": "hatchoun / 7atchoun / hatchtoun",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Female genitalia (cunt / pussy)"
+  },
+  {
+    "root": "سوة",
+    "variations": [
+      "سوة",
+      "سوتك",
+      "السوة",
+      "sowa",
+      "soua",
+      "sowak",
+      "souak"
+    ],
+    "arabizi": "sowa / soua",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Female genitalia / Buttocks / Vulva"
+  },
+  {
+    "root": "قواد",
+    "variations": [
+      "قواد",
+      "قوادة",
+      "قوادين",
+      "قوادن",
+      "تقود",
+      "تقودو",
+      "قود",
+      "القواد",
+      "kowad",
+      "qowad",
+      "kowada",
+      "qowada",
+      "qouad",
+      "qouada",
+      "tgouad",
+      "tgawad",
+      "qoud",
+      "koud",
+      "tkouad",
+      "tagouad"
+    ],
+    "arabizi": "qowad / kowad / tgouad / qoud",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Pimp / Cuckold / Bootlicker / Go away (vulgar)"
+  },
+  {
+    "root": "طحان",
+    "variations": [
+      "طحان",
+      "طحانين",
+      "طحانة",
+      "طحين",
+      "tahan",
+      "tahana",
+      "tahanine",
+      "t7an",
+      "t7ana"
+    ],
+    "arabizi": "tahan / tahana / t7an",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Cuckold / Spineless / Coward / Scumbag"
+  },
+  {
+    "root": "شكوبي",
+    "variations": [
+      "شكوبي",
+      "chkoupi",
+      "chkopi",
+      "shkoupi"
+    ],
+    "arabizi": "chkoupi / chkopi",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Nothing / Trash / Useless (literally references male organ)"
+  },
+  {
+    "root": "ينعل",
+    "variations": [
+      "ينعلكم",
+      "ينعل",
+      "ينعلك",
+      "ينعله",
+      "ينعلها",
+      "ينعلو",
+      "ينعلهم",
+      "ينعلهوم",
+      "نعل",
+      "نعلة",
+      "ynael",
+      "naal",
+      "naala",
+      "ynaal",
+      "nalat"
+    ],
+    "arabizi": "ynael / naal / naala",
+    "severity": "High",
+    "category": "Curse/Ill-wishing",
+    "english_meaning": "May God curse / Curse of"
+  },
+  {
+    "root": "لعن",
+    "variations": [
+      "لعنة",
+      "لعنه",
+      "لعن",
+      "لعنهم",
+      "لعنكم",
+      "laana",
+      "laan",
+      "laanahum"
+    ],
+    "arabizi": "laana / laan",
+    "severity": "Medium",
+    "category": "Curse/Ill-wishing",
+    "english_meaning": "Curse / Damnation"
+  },
+  {
+    "root": "لا تربحك",
+    "variations": [
+      "لاتربحكم",
+      "تربحكم",
+      "تربحك",
+      "لا تربحكم",
+      "la terbah",
+      "la terbahkoum",
+      "la terba7"
+    ],
+    "arabizi": "la terbah / la terbahkoum / la terba7",
+    "severity": "Medium",
+    "category": "Curse/Ill-wishing",
+    "english_meaning": "May you not profit / May God curse your path"
+  },
+  {
+    "root": "يذلك",
+    "variations": [
+      "يذلك",
+      "يذلكم",
+      "مذلول",
+      "ydhelek",
+      "ydhelkoum",
+      "madhloul"
+    ],
+    "arabizi": "ydhelek / ydhelkoum / madhloul",
+    "severity": "Medium",
+    "category": "Curse/Ill-wishing",
+    "english_meaning": "May He humiliate you / Humiliated"
+  },
+  {
+    "root": "خراء",
+    "variations": [
+      "خرا",
+      "لخرا",
+      "خراي",
+      "خرااا",
+      "خرااااا",
+      "خراكم",
+      "خراوك",
+      "خراية",
+      "khra",
+      "lkhra",
+      "khraya",
+      "tekhray",
+      "ekhraw",
+      "matkhrach",
+      "matkhraych",
+      "ékhraww"
+    ],
+    "arabizi": "khra / lkhra / khraya",
+    "severity": "Medium",
+    "category": "Scatological/Filth",
+    "english_meaning": "Shit / Turd"
+  },
+  {
+    "root": "زبل",
+    "variations": [
+      "زبل",
+      "زبلة",
+      "الزبل",
+      "zbel",
+      "zebla",
+      "lzbel",
+      "zbla"
+    ],
+    "arabizi": "zbel / zebla",
+    "severity": "Medium",
+    "category": "Scatological/Filth",
+    "english_meaning": "Garbage / Trash"
+  },
+  {
+    "root": "خامج",
+    "variations": [
+      "خامج",
+      "خامجة",
+      "خامجين",
+      "خامجه",
+      "خامجات",
+      "خامجا",
+      "الخامجة",
+      "بلخماج",
+      "خماج",
+      "khamadj",
+      "khamadja",
+      "khamdjine",
+      "khmadj",
+      "khamj"
+    ],
+    "arabizi": "khamadj / khamadja / khmadj",
+    "severity": "Medium",
+    "category": "Scatological/Filth",
+    "english_meaning": "Rotten / Filthy / Corrupt"
+  },
+  {
+    "root": "فايح",
+    "variations": [
+      "فايح",
+      "فايحة",
+      "فايحين",
+      "فايحا",
+      "الفايحة",
+      "fayeh",
+      "fayeha",
+      "fayhine",
+      "faye7"
+    ],
+    "arabizi": "fayeh / fayeha / fayhine",
+    "severity": "Medium",
+    "category": "Scatological/Filth",
+    "english_meaning": "Smelly / Stinking / Rotten"
+  },
+  {
+    "root": "رهج",
+    "variations": [
+      "رهج",
+      "رهجونا",
+      "rahdj",
+      "rahj",
+      "rahjouna"
+    ],
+    "arabizi": "rahdj / rahjouna",
+    "severity": "Medium",
+    "category": "Scatological/Filth",
+    "english_meaning": "Poison / Noxious filth / Shut up"
+  },
+  {
+    "root": "زيقو",
+    "variations": [
+      "زيقو",
+      "الزيقو",
+      "zigo",
+      "lzigo",
+      "zigou"
+    ],
+    "arabizi": "zigo / lzigo",
+    "severity": "Medium",
+    "category": "Scatological/Filth",
+    "english_meaning": "Sewer / Gutter / Filthy channel"
+  },
+  {
+    "root": "رخس",
+    "variations": [
+      "الرخس",
+      "رخاس",
+      "رخيس",
+      "رخيسة",
+      "مرخس",
+      "rakhs",
+      "rakhass",
+      "rakhis",
+      "rakhisa",
+      "mrakhas"
+    ],
+    "arabizi": "rakhs / rakhis / rakhisa",
+    "severity": "Medium",
+    "category": "Character Insult",
+    "english_meaning": "Despicable / Cheap / Worthless / Disgraced"
+  },
+  {
+    "root": "بخص",
+    "variations": [
+      "البخس",
+      "البخص",
+      "bakhs",
+      "bakhass"
+    ],
+    "arabizi": "bakhs / bakhass",
+    "severity": "Medium",
+    "category": "Character Insult",
+    "english_meaning": "Humiliation / Cheapness / Worthlessness"
+  },
+  {
+    "root": "خائن",
+    "variations": [
+      "خائن",
+      "سراقين",
+      "المجرم",
+      "المرتزقة",
+      "khaen",
+      "sarraqine",
+      "mudjrim",
+      "mourtazaqa"
+    ],
+    "arabizi": "khaen / sarraqine / mudjrim",
+    "severity": "Medium",
+    "category": "Character Insult",
+    "english_meaning": "Traitor / Thieves / Criminal / Mercenaries"
+  },
+  {
+    "root": "كلب",
+    "variations": [
+      "كلب",
+      "كلاب",
+      "كلبة",
+      "كلابه",
+      "كلابها",
+      "كلابهم",
+      "كلبا",
+      "كلبت",
+      "الكلاب",
+      "kelb",
+      "klab",
+      "kelba",
+      "lkellab"
+    ],
+    "arabizi": "kelb / klab / kelba",
+    "severity": "Medium",
+    "category": "Animal Insult",
+    "english_meaning": "Dog / Dogs / Bitch"
+  },
+  {
+    "root": "حمار",
+    "variations": [
+      "حمار",
+      "حمير",
+      "الحمار",
+      "الحمير",
+      "حميره",
+      "hmar",
+      "hmir",
+      "lahmar",
+      "7mar",
+      "7mir"
+    ],
+    "arabizi": "hmar / hmir / 7mar",
+    "severity": "Medium",
+    "category": "Animal Insult",
+    "english_meaning": "Donkey / Donkeys"
+  },
+  {
+    "root": "بغل",
+    "variations": [
+      "بغل",
+      "البغل",
+      "bghal"
+    ],
+    "arabizi": "bghal",
+    "severity": "Medium",
+    "category": "Animal Insult",
+    "english_meaning": "Mule / Stubborn / Foolish"
+  },
+  {
+    "root": "هيشر",
+    "variations": [
+      "هيشر",
+      "الهيشر",
+      "hicher",
+      "lahicher"
+    ],
+    "arabizi": "hicher / lahicher",
+    "severity": "Medium",
+    "category": "Animal Insult",
+    "english_meaning": "Cattle / Beast / Uncivilized person"
+  },
+  {
+    "root": "شيات",
+    "variations": [
+      "شيات",
+      "شياتين",
+      "شياتة",
+      "شياته",
+      "شياتية",
+      "الشياتين",
+      "shiyat",
+      "shiyatin",
+      "shiyata"
+    ],
+    "arabizi": "shiyat / shiyatin",
+    "severity": "Medium",
+    "category": "Political/Sycophancy",
+    "english_meaning": "Bootlicker / Sycophant / Regime apologist"
+  },
+  {
+    "root": "لحاس",
+    "variations": [
+      "لحاس",
+      "لحاسين",
+      "lahas",
+      "lahasine"
+    ],
+    "arabizi": "lahas / lahasine",
+    "severity": "Medium",
+    "category": "Political/Sycophancy",
+    "english_meaning": "Bootlicker (literally: licker)"
+  },
+  {
+    "root": "بوصبع",
+    "variations": [
+      "بوصبع",
+      "البوصبع",
+      "bousbaa",
+      "bousba3",
+      "bousba"
+    ],
+    "arabizi": "bousbaa / bousba3",
+    "severity": "Medium",
+    "category": "Political/Sycophancy",
+    "english_meaning": "Regime bootlicker (referencing blue ink finger vote)"
+  },
+  {
+    "root": "قبوري",
+    "variations": [
+      "قبوري",
+      "القبوري",
+      "qabouri",
+      "qabouriane"
+    ],
+    "arabizi": "qabouri",
+    "severity": "Medium",
+    "category": "Sectarian Insult",
+    "english_meaning": "Grave-worshipper (sectarian slur)"
+  },
+  {
+    "root": "مسيلمة",
+    "variations": [
+      "مسيلمة",
+      "musaylima"
+    ],
+    "arabizi": "musaylima",
+    "severity": "Medium",
+    "category": "Sectarian Insult",
+    "english_meaning": "Arch-liar (sectarian slur referencing Musaylima the liar)"
+  },
+  {
+    "root": "دجال",
+    "variations": [
+      "دجال",
+      "الدجال",
+      "dadjjal",
+      "dajjal"
+    ],
+    "arabizi": "dadjjal / dajjal",
+    "severity": "Medium",
+    "category": "Sectarian Insult",
+    "english_meaning": "Deceiver / Antichrist / Impostor"
+  },
+  {
+    "root": "يهود",
+    "variations": [
+      "يهود",
+      "صهيوني",
+      "yehoud",
+      "sohyouni"
+    ],
+    "arabizi": "yehoud / sohyouni",
+    "severity": "Medium",
+    "category": "Sectarian Insult",
+    "english_meaning": "Jews / Zionist (used as derogatory slurs)"
+  },
+  {
+    "root": "مبتدع",
+    "variations": [
+      "مبتدع",
+      "mobtada"
+    ],
+    "arabizi": "mobtada",
+    "severity": "Medium",
+    "category": "Sectarian Insult",
+    "english_meaning": "Heretic / Religious innovator (sectarian slur)"
+  },
+  {
+    "root": "كذاب",
+    "variations": [
+      "كذاب",
+      "كذابة",
+      "كذبا",
+      "تكذب",
+      "تكدب",
+      "الكذاب",
+      "kaddhab",
+      "tkadeb",
+      "tkedb",
+      "kdab"
+    ],
+    "arabizi": "kaddhab / tkadeb",
+    "severity": "Medium",
+    "category": "Lying/Deception",
+    "english_meaning": "Liar / You lie / Lies"
+  },
+  {
+    "root": "خرطي",
+    "variations": [
+      "خرطي",
+      "تخرط",
+      "خراط",
+      "khorti",
+      "tekhrat",
+      "khrat",
+      "tkhorti"
+    ],
+    "arabizi": "khorti / tekhrat",
+    "severity": "Medium",
+    "category": "Lying/Deception",
+    "english_meaning": "Bullshit / Lies / Bullshitter"
+  },
+  {
+    "root": "جايح",
+    "variations": [
+      "جايح",
+      "جايحة",
+      "جايحين",
+      "انقرضي",
+      "djayeh",
+      "djayeha",
+      "djayhine"
+    ],
+    "arabizi": "djayeh / djayeha",
+    "severity": "Medium",
+    "category": "Idiot/Foolish",
+    "english_meaning": "Foolish / Immature / Silly / Go extinct"
+  },
+  {
+    "root": "بهلول",
+    "variations": [
+      "بهلول",
+      "بهلولة",
+      "بهلولات",
+      "bahmoul",
+      "bahmoula",
+      "behloul"
+    ],
+    "arabizi": "bahmoul / behloul",
+    "severity": "Medium",
+    "category": "Idiot/Foolish",
+    "english_meaning": "Idiot / Fool / Clown"
+  },
+  {
+    "root": "تافه",
+    "variations": [
+      "تافه",
+      "تافهة",
+      "تافهين",
+      "تافهون",
+      "الرداءة",
+      "التفاهة",
+      "tafeh",
+      "tafeha",
+      "tafhine",
+      "radaa"
+    ],
+    "arabizi": "tafeh / tafeha",
+    "severity": "Low",
+    "category": "Idiot/Foolish",
+    "english_meaning": "Trivial / Worthless / Mediocrity / Trashy"
+  },
+  {
+    "root": "بلع",
+    "variations": [
+      "بلع",
+      "بلعي",
+      "بلعو",
+      "belaa",
+      "belaai",
+      "blac",
+      "blai"
+    ],
+    "arabizi": "belaa / belaai",
+    "severity": "Medium",
+    "category": "Silencing/Shut up",
+    "english_meaning": "Shut up / Shut your mouth (vulgar)"
+  },
+  {
+    "root": "تفو",
+    "variations": [
+      "تفو",
+      "تفوه",
+      "تفووو",
+      "تفووووو",
+      "تفوووه",
+      "تفوووووو",
+      "تفوووو",
+      "تفوا",
+      "تفوو",
+      "تفووووووو",
+      "تفوووووه",
+      "تفووووه",
+      "تفووه",
+      "تفووووووه",
+      "تفووووووووه",
+      "تفوووووووووووو",
+      "تفوووووووووووووووووووه",
+      "tfo",
+      "tfou",
+      "tfoo",
+      "tfooo",
+      "tfouuu"
+    ],
+    "arabizi": "tfo / tfou",
+    "severity": "Low",
+    "category": "Spitting/Disgust",
+    "english_meaning": "Spitting sound (expressing extreme disgust)"
+  },
+  {
+    "root": "طز",
+    "variations": [
+      "طز",
+      "tozz",
+      "toz"
+    ],
+    "arabizi": "tozz / toz",
+    "severity": "Low",
+    "category": "Spitting/Disgust",
+    "english_meaning": "Expression of disdain / Who cares"
+  },
+  {
+    "root": "قيو",
+    "variations": [
+      "قيو",
+      "qyo",
+      "qiw",
+      "kiw",
+      "kyo"
+    ],
+    "arabizi": "qyo / qiw / kiw",
+    "severity": "Low",
+    "category": "Spitting/Disgust",
+    "english_meaning": "Sarcastic sound of disbelief / Mockery (bullshit)"
+  }
+]
