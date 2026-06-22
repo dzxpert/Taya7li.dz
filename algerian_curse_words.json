@@ -453,6 +453,21 @@
     "english_meaning": "May He humiliate you / Humiliated"
   },
   {
+    "root": "موقف",
+    "variations": [
+      "موقف",
+      "موڨف",
+      "mwgf",
+      "mowagef",
+      "mw9f",
+      "mouagef"
+    ],
+    "arabizi": "mwgf / mowagef / mw9f / mouagef",
+    "severity": "Medium",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Erect / Hard (slang for penis) - Kept in Medium severity due to false positive risks with 'situation/stop/attitude'"
+  },
+  {
     "root": "خراء",
     "variations": [
       "خرا",
