@@ -1352,7 +1352,7 @@
       "s5onin"
     ],
     "arabizi": "skhoon / s5oon / skhouna / s5ouna",
-    "severity": "Medium",
+    "severity": "High",
     "category": "Vulgar/NSFW",
     "english_meaning": "Horny / Aroused (literally: Hot/Warm - carries high false positive risk in general chat moderation)"
   }
