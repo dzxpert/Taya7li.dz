@@ -1304,5 +1304,30 @@
     "severity": "Medium",
     "category": "Lying/Deception",
     "english_meaning": "Bullshitter / Deceiver / Scammer"
+  },
+  {
+    "root": "نقش",
+    "variations": [
+      "نقش",
+      "النقش",
+      "نقوشة",
+      "نقوش",
+      "no9ch",
+      "n9ch",
+      "no9cha",
+      "n9cha",
+      "n9och",
+      "no9och",
+      "neqch",
+      "negch",
+      "lneqch",
+      "lno9ch",
+      "no9chou",
+      "n9chou"
+    ],
+    "arabizi": "no9ch / n9ch / neqch / no9cha",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Homophobic slur (faggot) / Effeminate man"
   }
 ]
