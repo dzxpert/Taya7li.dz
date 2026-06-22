@@ -226,6 +226,93 @@
     "english_meaning": "Ass / Buttocks / Your ass"
   },
   {
+    "root": "عصبة",
+    "variations": [
+      "3asba",
+      "3asbatek",
+      "3asbatk",
+      "3asbtek",
+      "3asb",
+      "asba",
+      "asbatk"
+    ],
+    "arabizi": "3asba / 3asbatek / 3asbatk",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Male genitalia (dick / cock) - Latin/Arabizi variations only to avoid standard Arabic 'League' (عصبة) false positives"
+  },
+  {
+    "root": "زك",
+    "variations": [
+      "زك",
+      "زكك",
+      "زكها",
+      "zek",
+      "zekkek",
+      "zki",
+      "zkk",
+      "zok",
+      "zokk",
+      "zokkek",
+      "zoki",
+      "lzok",
+      "lzek"
+    ],
+    "arabizi": "zek / zok / zkk / zekkek",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Ass / Buttocks / Your ass"
+  },
+  {
+    "root": "سرم",
+    "variations": [
+      "سرم",
+      "سرمك",
+      "السرم",
+      "serm",
+      "sermek",
+      "srmi",
+      "sorm",
+      "sormek",
+      "sormok",
+      "sormi",
+      "lserm",
+      "lsorm"
+    ],
+    "arabizi": "serm / sorm / sermek / sormek",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Ass / Buttocks / Your ass"
+  },
+  {
+    "root": "ربك",
+    "variations": [
+      "ربك",
+      "ربكك",
+      "الربك",
+      "rabek",
+      "rabk",
+      "rabbek",
+      "rabbk",
+      "rabekk"
+    ],
+    "arabizi": "rabek / rabk / rabbek",
+    "severity": "High",
+    "category": "Curse/Ill-wishing",
+    "english_meaning": "Your Lord (used in severe blasphemy/damning statements)"
+  },
+  {
+    "root": "عصبة (Arabic Script)",
+    "variations": [
+      "عصبة",
+      "عصبتك"
+    ],
+    "arabizi": "3asba / 3asbatek / 3asbatk",
+    "severity": "Medium",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Male genitalia (dick / cock) - Arabic script only, kept in Medium severity to avoid false positives with Standard Arabic 'League' (عصبة)"
+  },
+  {
     "root": "طحان",
     "variations": [
       "طحان",
