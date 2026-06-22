@@ -73,7 +73,8 @@
       "5tak",
       "5tik",
       "khtouk",
-      "okhtouk"
+      "okhtouk",
+	  "5oytek"
     ],
     "arabizi": "khtk / khtek / okhtek / 5tk",
     "severity": "High",
@@ -1355,5 +1356,46 @@
     "severity": "High",
     "category": "Vulgar/NSFW",
     "english_meaning": "Horny / Aroused (literally: Hot/Warm - carries high false positive risk in general chat moderation)"
+  },
+  {
+    "root": "ديوث",
+    "variations": [
+      "ديوث",
+      "الديوث",
+      "ديوثين",
+      "ديوثة",
+      "dayouth",
+      "dayout",
+      "dayouta",
+      "dayo7",
+      "ldayouth",
+      "dayoth",
+      "dayot",
+      "dayota"
+    ],
+    "arabizi": "dayouth / dayoth / dayo7",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Cuckold / Shameless (moral insult accusing a man of lacking honor or protective jealousy over his female relatives)"
+  },
+  {
+    "root": "مطنن",
+    "variations": [
+      "مطنن",
+      "المطنن",
+      "يطنن",
+      "tenna",
+      "tennaa",
+      "mtenen",
+      "mtnen",
+      "mtenan",
+      "mtnan",
+      "mtenna",
+      "mtnna"
+    ],
+    "arabizi": "tenna / mtenen / mtnen",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Horny / Aroused / Sexually frustrated"
   }
 ]
