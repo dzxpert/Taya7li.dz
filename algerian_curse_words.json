@@ -221,7 +221,8 @@
       "trmti",
       "termti",
       "ltrma",
-      "lterma"
+      "lterma",
+      "tramtk"
     ],
     "arabizi": "trma / terma / trmtk",
     "severity": "High",
@@ -463,7 +464,13 @@
       "mwgf",
       "mowagef",
       "mw9f",
-      "mouagef"
+      "mouagef",
+      "mwagf",
+      "mwagfe",
+      "mouagf",
+      "mouagfe",
+      "مواقف",
+      "مواڨف"
     ],
     "arabizi": "mwgf / mowagef / mw9f / mouagef",
     "severity": "Medium",
@@ -1553,7 +1560,18 @@
       "bnt?",
       "tofla?!",
       "tofla",
-      "طفلة"
+      "طفلة",
+      "wld ett",
+      "bnt ett?",
+      "bnt ett",
+      "wld ent",
+      "bnt ent",
+      "wld enta",
+      "bnt enta",
+      "wld ett?",
+      "طفلة؟",
+      "طفل؟",
+      "ولد؟"
     ],
     "arabizi": "bnt? / tofla",
     "severity": "Medium",
@@ -1585,5 +1603,34 @@
     "severity": "Medium",
     "category": "WSMK_patterns",
     "english_meaning": "Asking for name in hookup chat"
+  },
+  {
+    "root": "نبانيات",
+    "variations": [
+      "نبانيات",
+      "النبانيات",
+      "نبانية",
+      "النبانية",
+      "nbanyat",
+      "nebaniyat",
+      "nbanya",
+      "nebaniya",
+      "nbaniyat",
+      "nbanyt",
+      "نبنيط",
+      "النبنيط",
+      "نبنيطة",
+      "النبنيطة",
+      "nbnit",
+      "nbniet",
+      "nebnit",
+      "nebniet",
+      "nbnyt",
+      "nebnyt"
+    ],
+    "arabizi": "nbanyat / nebaniyat / nbanya",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Lesbians (slang/slur transliterated from French 'lesbiennes')"
   }
 ]
