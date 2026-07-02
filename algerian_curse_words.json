@@ -46,7 +46,9 @@
       "nikouni",
       "niknek",
       "nykek",
-      "ynikouk"
+      "ynikouk",
+      "tnikni",
+      "tnikny"
     ],
     "arabizi": "nik / ynik / nikek / nikak / nikmouk",
     "severity": "High",
@@ -74,7 +76,7 @@
       "5tik",
       "khtouk",
       "okhtouk",
-	  "5oytek"
+      "5oytek"
     ],
     "arabizi": "khtk / khtek / okhtek / 5tk",
     "severity": "High",
@@ -1397,5 +1399,191 @@
     "severity": "High",
     "category": "Vulgar/NSFW",
     "english_meaning": "Horny / Aroused / Sexually frustrated"
+  },
+  {
+    "root": "بهيم",
+    "variations": [
+      "بهيم",
+      "البهيم",
+      "بهيمة",
+      "بهايم",
+      "bhim",
+      "bhima",
+      "bhayem",
+      "lbhim"
+    ],
+    "arabizi": "bhim / bhima / bhayem",
+    "severity": "Medium",
+    "category": "Animal Insult",
+    "english_meaning": "Beast / Extremely stupid"
+  },
+  {
+    "root": "سكويرت",
+    "variations": [
+      "سكويرت",
+      "سكويرتنج",
+      "squirt",
+      "squirting"
+    ],
+    "arabizi": "squirt / squirting",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Squirt / Squirting (transliterated)"
+  },
+  {
+    "root": "فاك",
+    "variations": [
+      "فاك",
+      "fuck",
+      "fuck you",
+      "fack",
+      "fck"
+    ],
+    "arabizi": "fuck / fack / fck",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Fuck (transliterated)"
+  },
+  {
+    "root": "ديك",
+    "variations": [
+      "dick",
+      "dik",
+      "deek"
+    ],
+    "arabizi": "dick / dik / deek",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Dick (transliterated)"
+  },
+  {
+    "root": "بوبز",
+    "variations": [
+      "بوبز",
+      "boobs",
+      "bobs",
+      "boobz"
+    ],
+    "arabizi": "boobs / bobs",
+    "severity": "High",
+    "category": "Vulgar/NSFW",
+    "english_meaning": "Boobs (transliterated)"
+  },
+  {
+    "root": "بيبا",
+    "variations": [
+      "drbtli pipa",
+      "drabtli pipa",
+      "darbatli pipa",
+      "drab pipa",
+      "pipa",
+      "البيبا"
+    ],
+    "arabizi": "pipa / drbtli pipa",
+    "severity": "High",
+    "category": "WSMK_patterns",
+    "english_meaning": "Blowjob reference / pipe"
+  },
+  {
+    "root": "تمنيك",
+    "variations": [
+      "Mtmnikch",
+      "matmanikch",
+      "matmnikch",
+      "تمنيك",
+      "متمنيكش"
+    ],
+    "arabizi": "mtmnikch / matmanikch",
+    "severity": "High",
+    "category": "WSMK_patterns",
+    "english_meaning": "Don't mock me / Don't play with me"
+  },
+  {
+    "root": "نجيبوه",
+    "variations": [
+      "Njiboh",
+      "Manjibohch",
+      "njiboh",
+      "manjibohch",
+      "نجيبوه",
+      "منجيبوهش",
+      "نجيبو",
+      "manjiboh"
+    ],
+    "arabizi": "njiboh / manjibohch",
+    "severity": "High",
+    "category": "WSMK_patterns",
+    "english_meaning": "Ejaculate reference (literally: bring it / not bring it)"
+  },
+  {
+    "root": "نلعب به",
+    "variations": [
+      "nl3b bih",
+      "nel3ab bih",
+      "nel3b bih",
+      "Ni nel3ab bih",
+      "ni nel3ab bih",
+      "نلعب بيه",
+      "نلعب به"
+    ],
+    "arabizi": "nl3b bih / nel3ab bih",
+    "severity": "High",
+    "category": "WSMK_patterns",
+    "english_meaning": "Play with it (sexual double entendre)"
+  },
+  {
+    "root": "دور جنسي",
+    "variations": [
+      "top here",
+      "t or b",
+      "t wla b",
+      "t ولا b",
+      "t ولا ب",
+      "t wla p"
+    ],
+    "arabizi": "top here / t or b / t wla b",
+    "severity": "High",
+    "category": "WSMK_patterns",
+    "english_meaning": "Top or Bottom sexual role preference in hookup chat"
+  },
+  {
+    "root": "بنت/طفلة",
+    "variations": [
+      "بنت؟",
+      "bnt?",
+      "tofla?!",
+      "tofla",
+      "طفلة"
+    ],
+    "arabizi": "bnt? / tofla",
+    "severity": "Medium",
+    "category": "WSMK_patterns",
+    "english_meaning": "Asking for gender in hookup chat"
+  },
+  {
+    "root": "كفاش بب",
+    "variations": [
+      "kifach bb",
+      "kifech bb",
+      "kifach baby"
+    ],
+    "arabizi": "kifach bb",
+    "severity": "Medium",
+    "category": "WSMK_patterns",
+    "english_meaning": "Chat hookup patterns (How baby?)"
+  },
+  {
+    "root": "اسمك",
+    "variations": [
+      "Wch ismk",
+      "wch ismk",
+      "esmk",
+      "Esmk",
+      "اسمك"
+    ],
+    "arabizi": "wch ismk / esmk",
+    "severity": "Medium",
+    "category": "WSMK_patterns",
+    "english_meaning": "Asking for name in hookup chat"
   }
 ]
