@@ -48,7 +48,11 @@
       "nykek",
       "ynikouk",
       "tnikni",
-      "tnikny"
+      "tnikny",
+      "nkmk",
+      "nkmok",
+      "nkmouk",
+      "nkmatkom"
     ],
     "arabizi": "nik / ynik / nikek / nikak / nikmouk",
     "severity": "High",
@@ -198,7 +202,8 @@
       "souatek",
       "sowtek",
       "sowtk",
-      "swtk"
+      "swtk",
+      "swtek"
     ],
     "arabizi": "sowa / soua / sowatek / sowtek",
     "severity": "High",
@@ -1626,11 +1631,37 @@
       "nebnit",
       "nebniet",
       "nbnyt",
-      "nebnyt"
+      "nebnyt",
+      "nbnyat",
+      "nebnyat"
     ],
     "arabizi": "nbanyat / nebaniyat / nbanya",
     "severity": "High",
     "category": "Vulgar/NSFW",
     "english_meaning": "Lesbians (slang/slur transliterated from French 'lesbiennes')"
+  },
+  {
+    "root": "ديرو فيا",
+    "variations": [
+      "ديرو فيا",
+      "دير فيا",
+      "ديرو فيّ",
+      "dirou fya",
+      "diro fya",
+      "dir fya",
+      "dirou fiya",
+      "diro fiya",
+      "dir fiya",
+      "diroufya",
+      "dirofya",
+      "dirfya",
+      "diroufiya",
+      "dirofiya",
+      "dirfiya"
+    ],
+    "arabizi": "dirou fya / diro fya / dirou fiya",
+    "severity": "High",
+    "category": "WSMK_patterns",
+    "english_meaning": "Do to me (sexual solicitation / double entendre)"
   }
 ]
